@@ -10,11 +10,51 @@
     "users": [
         {
             "id": 1,
-            "firstName": "Kevin",
-            "lastName": "Smith",
-            "dateOfBirth": "02/15/1995",
+            "firstName": "Helen",
+            "lastName": "Rowantree",
             "jobtypeID": 1,
-            "descriptionResume": "Developed Labor Analysis Worksheet to forecast workflow management, Provide daily account metrics report, Responsible for order bookings for over ten sales reps"
+            "dateOfBirth": "8/17/1992",
+            "descriptionResume": 1
+        },
+        {
+            "id": 2,
+            "firstName": "Yolanthe",
+            "lastName": "McCloch",
+            "jobtypeID": 2,
+            "dateOfBirth": "6/14/1993",
+            "descriptionResume": 2
+        },
+        {
+            "id": 3,
+            "firstName": "Layton",
+            "lastName": "Livezey",
+            "jobtypeID": 3,
+            "dateOfBirth": "10/24/1983",
+            "descriptionResume": 3
+        },
+        {
+            "id": 4,
+            "firstName": "Connie",
+            "lastName": "McNicol",
+            "jobtypeID": 4,
+            "dateOfBirth": "4/25/1996",
+            "descriptionResume": 4
+        },
+        {
+            "id": 5,
+            "firstName": "Ashlan",
+            "lastName": "Kenway",
+            "jobtypeID": 5,
+            "dateOfBirth": "9/22/1991",
+            "descriptionResume": 5
+        },
+        {
+            "id": 6,
+            "firstName": "Dacie",
+            "lastName": "Mowsdill",
+            "jobtypeID": 6,
+            "dateOfBirth": "2/6/1998",
+            "descriptionResume": 6
         }
     ],
     "userJobs": [
@@ -27,7 +67,7 @@
     "jobs": [
         {
             "id": 1,
-            "name": "painter",
+            "jobTitle": "painter",
             "jobtypeId": 1,
             "description": "Paint house red",
             "dateOfCompletion": "05/15/2022",
@@ -40,7 +80,55 @@
     "jobTypes": [
         {
             "id": 1,
-            "name": "painter"
+            "jobType": "Geologist II"
+        },
+        {
+            "id": 2,
+            "jobType": "Business Systems Development Analyst"
+        },
+        {
+            "id": 3,
+            "jobType": "Systems Administrator I"
+        },
+        {
+            "id": 4,
+            "jobType": "Database Administrator I"
+        },
+        {
+            "id": 5,
+            "jobType": "Assistant Professor"
+        },
+        {
+            "id": 6,
+            "jobType": "Speech Pathologist"
+        },
+        {
+            "id": 7,
+            "jobType": "Engineer II"
+        },
+        {
+            "id": 8,
+            "jobType": "Web Developer I"
+        },
+        {
+            "id": 9,
+            "jobType": "Help Desk Technician"
+        },
+        {
+            "id": 10,
+            "jobType": "Senior Quality Engineer"
+        },
+        {
+            "id": 11,
+            "jobType": "Database Administrator III"
+        },
+        {
+            "id": 12,
+            "jobType": "Business Systems Development Analyst"
+        },
+        {
+            "id": 13,
+            "jobType": "Product Engineer"
         }
     ]
 }
