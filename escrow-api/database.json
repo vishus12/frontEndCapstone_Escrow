@@ -1,0 +1,46 @@
+{
+    "reviews": [
+        {
+            "id": 1,
+            "userId": 1,
+            "userScore": 5,
+            "currentUserId": 1
+        }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "firstName": "Kevin",
+            "lastName": "Smith",
+            "dateOfBirth": "02/15/1995",
+            "jobtypeID": 1,
+            "descriptionResume": "Developed Labor Analysis Worksheet to forecast workflow management, Provide daily account metrics report, Responsible for order bookings for over ten sales reps"
+        }
+    ],
+    "userJobs": [
+        {
+            "id": 1,
+            "userId": 1,
+            "jobId": 1
+        }
+    ],
+    "jobs": [
+        {
+            "id": 1,
+            "name": "painter",
+            "jobtypeId": 1,
+            "description": "Paint house red",
+            "dateOfCompletion": "05/15/2022",
+            "startDate": "02/12/2021",
+            "workers": 5,
+            "detailsDescription": "Paint the house in different shades of mahogany, currant and scarlet in gradient form. Make sure the umbra matches the back porch with a similar design",
+            "userId": 1
+        }
+    ],
+    "jobTypes": [
+        {
+            "id": 1,
+            "name": "painter"
+        }
+    ]
+}
