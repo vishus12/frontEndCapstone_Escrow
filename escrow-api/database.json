@@ -62,73 +62,151 @@
             "id": 1,
             "userId": 1,
             "jobId": 1
-        }
-    ],
-    "jobs": [
-        {
-            "id": 1,
-            "jobTitle": "painter",
-            "jobtypeId": 1,
-            "description": "Paint house red",
-            "dateOfCompletion": "05/15/2022",
-            "startDate": "02/12/2021",
-            "workers": 5,
-            "detailsDescription": "Paint the house in different shades of mahogany, currant and scarlet in gradient form. Make sure the umbra matches the back porch with a similar design",
-            "userId": 1
-        }
-    ],
-    "jobTypes": [
-        {
-            "id": 1,
-            "jobType": "Geologist II"
         },
         {
             "id": 2,
-            "jobType": "Business Systems Development Analyst"
+            "userId": 2,
+            "jobId": 2
         },
         {
             "id": 3,
-            "jobType": "Systems Administrator I"
+            "userId": 3,
+            "jobId": 3
         },
         {
             "id": 4,
-            "jobType": "Database Administrator I"
+            "userId": 4,
+            "jobId": 4
         },
         {
             "id": 5,
-            "jobType": "Assistant Professor"
+            "userId": 5,
+            "jobId": 5
         },
         {
             "id": 6,
-            "jobType": "Speech Pathologist"
+            "userId": 6,
+            "jobId": 6
         },
         {
             "id": 7,
-            "jobType": "Engineer II"
+            "userId": 7,
+            "jobId": 7
         },
         {
             "id": 8,
-            "jobType": "Web Developer I"
+            "userId": 8,
+            "jobId": 8
         },
         {
             "id": 9,
-            "jobType": "Help Desk Technician"
+            "userId": 9,
+            "jobId": 9
         },
         {
             "id": 10,
-            "jobType": "Senior Quality Engineer"
-        },
-        {
-            "id": 11,
-            "jobType": "Database Administrator III"
-        },
-        {
-            "id": 12,
-            "jobType": "Business Systems Development Analyst"
-        },
-        {
-            "id": 13,
-            "jobType": "Product Engineer"
+            "userId": 10,
+            "jobId": 10
         }
-    ]
+    ],
+"jobs": [
+    {
+        "id": 1,
+        "jobTitle": "painter",
+        "jobTypeId": 1,
+        "description": "paint house red",
+        "startDate": "02/12/2021",
+        "dateOfCompletion": "05/15/2021",
+        "workers": 5,
+        "detailsDescription": "Paint the house in different shades of mahogany, currant and scarlet in gradient form. Make sure the umbra matches the back porch with a similar design",
+        "userId": 1
+    },
+    {
+        "id": 2,
+        "jobTitle": "data anaylst",
+        "jobTypeId": 2,
+        "description": "analyze 100 spreadsheets",
+        "startDate": "01/11/2021",
+        "dateOfCompletion": "03/15/2021",
+        "workers": 3,
+        "detailsDescription": "analyze 100 spreadsheets consiting of 200 sku's all correlating to devices that the customer wants reconfigured. They would like you to take the specific data and seperate the sales amount by run-rate",
+        "userId": 2
+    },
+    {
+        "id": 3,
+        "jobTitle": "Systems Administrator I",
+        "jobTypeId": 3,
+        "description": "computer system and server check",
+        "startDate": "04/18/2021",
+        "dateOfCompletion": "09/15/2021",
+        "workers": 2,
+        "detailsDescription": "Install hardware and software, and participate in research and development to continuously improve and keep up with the IT business needs of buisness.org ",
+        "userId": 3
+    },
+    {
+        "id": 4,
+        "jobTitle": "Database Administrator I",
+        "jobTypeId": 4,
+        "description": "check the integrity and security of our database",
+        "startDate": "05/10/2021",
+        "dateOfCompletion": "12/15/2021",
+        "workers": 4,
+        "detailsDescription": "You'll be involved in the planning and development of the database, as well as in troubleshooting any issues on behalf of the users.",
+        "userId": 4
+    }
+],
+"jobTypes": [
+    {
+        "id": 1,
+        "jobType": "Painter"
+    },
+    {
+        "id": 2,
+        "jobType": "Data Analyst"
+    },
+    {
+        "id": 3,
+        "jobType": "Systems Administrator I"
+    },
+    {
+        "id": 4,
+        "jobType": "Database Administrator I"
+    },
+    {
+        "id": 5,
+        "jobType": "Assistant Professor"
+    },
+    {
+        "id": 6,
+        "jobType": "Speech Pathologist"
+    },
+    {
+        "id": 7,
+        "jobType": "Engineer II"
+    },
+    {
+        "id": 8,
+        "jobType": "Web Developer I"
+    },
+    {
+        "id": 9,
+        "jobType": "Help Desk Technician"
+    },
+    {
+        "id": 10,
+        "jobType": "Senior Quality Engineer"
+    },
+    {
+        "id": 11,
+        "jobType": "Database Administrator III"
+    },
+    {
+        "id": 12,
+        "jobType": "Business Systems Development Analyst"
+    },
+    {
+        "id": 13,
+        "jobType": "Product Engineer"
+    }
+]
 }
