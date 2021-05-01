@@ -14,7 +14,7 @@
             "lastName": "Rowantree",
             "jobtypeID": 1,
             "dateOfBirth": "8/17/1992",
-            "descriptionResume": 1
+            "descriptionResume": "Professional Painter looking to secure a position with a reputable company. Offering years of experience on a wide variety of projects and surfaces, making me capable for any type of job."
         },
         {
             "id": 2,
@@ -22,7 +22,7 @@
             "lastName": "McCloch",
             "jobtypeID": 2,
             "dateOfBirth": "6/14/1993",
-            "descriptionResume": 2
+            "descriptionResume": "Manage the planning and development of design and procedures for metrics reports. Develop new reports and delegated tasks to team members. Perform market analysis to efficiently achieve objectives, increasing sales by 24%. Investigate and conducted study on forecasts, demand, and capital for products."
         },
         {
             "id": 3,
@@ -30,7 +30,7 @@
             "lastName": "Livezey",
             "jobtypeID": 3,
             "dateOfBirth": "10/24/1983",
-            "descriptionResume": 3
+            "descriptionResume": "Administer telecom infrastructure of company’s 11 offices, including creating and correcting PowerShell scripts that drive the automation of HRIS-like processes Evaluated the performance of computer systems/networks and coordinated computer network access by expertly utilizing remote monitoring and management (RMM) tools. Decrease the time of job completion from 50+ minutes to under 12 minutes by implementing an efficient system for employees to accomplish daily tasks. Successfully reduce operational costs by 17% through detecting and decommissioning unused hardware resources. Ensure high system availability, avoiding $175K in downtime losses and obtaining 90% client satisfaction ratings"
         },
         {
             "id": 4,
@@ -38,7 +38,7 @@
             "lastName": "McNicol",
             "jobtypeID": 4,
             "dateOfBirth": "4/25/1996",
-            "descriptionResume": 4
+            "descriptionResume": "Manage Oracle database administration assignments for diverse industry clients. Enhance database performance, perform restores, implement recovery procedures, handle performance tuning and conduct regular system backups. Ensure technical and functional designs meet business requirements."
         },
         {
             "id": 5,
@@ -46,7 +46,7 @@
             "lastName": "Kenway",
             "jobtypeID": 5,
             "dateOfBirth": "9/22/1991",
-            "descriptionResume": 5
+            "descriptionResume": "Hands-on experience at the graduation and post-graduation level education facility. Familiarity working at a College and University department. Outstanding ability to handle syllabus at the undergraduate and graduate curriculum. Remarkable ability to teach, inspire and develop young people. Excellent written and oral communication skills. Strong organizational skills and proficient with MS office tools"
         },
         {
             "id": 6,
@@ -54,7 +54,7 @@
             "lastName": "Mowsdill",
             "jobtypeID": 6,
             "dateOfBirth": "2/6/1998",
-            "descriptionResume": 6
+            "descriptionResume": "Hands-on experience at the graduation and post-graduation level education facility. Familiarity working at a College and University department. Outstanding ability to handle syllabus at the undergraduate and graduate curriculum. Remarkable ability to teach, inspire and develop young people. Excellent written and oral communication skills. Strong organizational skills and proficient with MS office tools"
         }
     ],
     "userJobs": [
